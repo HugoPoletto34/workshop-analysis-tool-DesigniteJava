@@ -1,0 +1,3 @@
+Extracting code smells...
+Exception while parsing literal number (during Magic Number detection). For input string: "0b111"
+Done.
